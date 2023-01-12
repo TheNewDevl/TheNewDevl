@@ -24,8 +24,9 @@
 <h1 align="center">Welcome ! 👋</h1>
 
 ### :man_technologist: About Me :
-I'm Carlos, a Full Stack Developer from France, passionate about web technologies.
-- I my free time I spend time on "Clash of Code" :crossed_swords: on codin game, following tech news and playing on my guitar :guitar:
+I'm a Full Stack Developer from France, passionate about web technologies.
+
+- Always ready to collaborate on a project, or even have a code battle on codingame :crossed_swords:
 
 ---
 
@@ -44,3 +45,11 @@ I'm Carlos, a Full Stack Developer from France, passionate about web technologie
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheNewDevl&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=TheNewDevl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
