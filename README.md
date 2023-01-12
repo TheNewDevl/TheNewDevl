@@ -1,9 +1,9 @@
 <header id="header" align="center">
-<div>
+<div align="center">
   <img alt="hello world" src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="200"/>
 </div>
 
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://www.codingame.com/profile/853c45e1da6f177e51ffdf447dc07c2d0937264">
     <img src="https://img.shields.io/badge/codingame-yellow?style=for-the-badge&logo=codingame&logoColor=white" alt="codingame Badge"/>
   </a>
@@ -14,11 +14,17 @@
     <img src="https://img.shields.io/badge/freecodecamp-black?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FCC Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=TheNewDevl&style=flat-square&color=blue" alt=""/>
-<h1>Welcome ! 👋</h1>
-<p>I'm carlos, a developer passionate about web technologies.</p>
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=TheNewDevl&style=flat-square&color=blue" alt=""/>
+</div>
+<h1 align="center">Welcome ! 👋</h1>
+<p align="center">I'm carlos, a developer passionate about web technologies.</p>
 
 <div>
   <img alt="banner" src="https://cdn.pixabay.com/photo/2015/08/24/12/54/banner-904886_960_720.jpg" />
 </div>
 </header>
+
+---
+
+### :womantechnologist: About Me :
