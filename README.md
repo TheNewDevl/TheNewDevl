@@ -52,4 +52,4 @@ I'm a Full Stack Developer from France, passionate about web technologies.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheNewDevl&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=TheNewDevl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNewDevl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
